@@ -1,4 +1,4 @@
-<h1> Hello World! <br> my name is Ayslan, Game Developer </h1>
+<h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
 
 <br>
 <div align="">

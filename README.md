@@ -4,7 +4,7 @@
 <div align="">
   <a href="https://github.com/Ayslan-gamedev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -15,5 +15,3 @@
   <a href="https://t.me/PressStart1390" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ayslan.gamedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<!--  [oi](google.com)

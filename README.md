@@ -1,5 +1,5 @@
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
-
+<img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="400px" align="right" alt="ayslan computer" style="max-width:100%;">
 <br>
 <div align="">
   <a href="https://github.com/Ayslan-gamedev">

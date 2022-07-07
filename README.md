@@ -4,7 +4,7 @@
 <div align="">
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayslan-Unity" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">
-  |
+  
   <img align="center" alt="Ayslan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ayslan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayslan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

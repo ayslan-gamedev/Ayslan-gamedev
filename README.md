@@ -2,8 +2,7 @@
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
 <br>
 bllalmvskjkjiohvohsvuiosgvugu gu gui gty fy ghj ghwghjfhjdvegjceg fsdgdfgdfbbdgdbgbgdnnddnngd h gyu tuy tyu yu ghj vhj fty fy gy f yg ug yf hj fjhf tf tr tr ty ryt ryt rty rt fhg fgh fgj f gf gc g cgh fgh cvg chg 
-<br>
-<br>
+bllalmvskjkjiohvohsvuiosgvugu gu gui gty fy ghj ghwghjfhjdvegjceg fsdgdfgdfbbdgdbgbgdnnddnngd h gyu tuy tyu yu ghj vhj fty fy gy f yg ug yf hj fjhf tf tr tr ty ryt ryt rty rt fhg fgh fgj f gf gc g cgh fgh cvg chg 
 <br>
 <div align="">
 <div style="display: inline_block"><br>

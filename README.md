@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="310px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
-I'm a Brazilian game developer, I've studied game creation since I was 14, I've worked in small groups of independent developers, I'm looking for the opportunity to work as a freelancer, I'm specialized in creating game systems, from basic to complex. My focus is always to bring an innovative and useful system, and that can be applied in as many situations as possible, always looking for economy and code quality. I already worked in a company called just fun, as a programmer, I was responsible for the creation of the rpg battle system, I also worked in a company called Instal Enterntnment, where I was a programmer for several projects such as Cat city, Two Sisters, among others. in addition to having done other parallel projects, and some still in development. Besides having some projects of its own authorship, some of them already launched.
+I'm a technician in Brazilian digital game development, I've been studying game creation since I was 14, I graduated in digital game programming at senai in 2022, I've worked in several groups of independent developers, much of it as a volunteer work.
+My focus is always to seek better code quality, through software optimization, and code reuse.
+
+If you want to know more, contact us through one of the social networks below.
 <br>
 <div align="">
 <div style="display: inline_block"><br>

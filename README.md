@@ -2,7 +2,7 @@
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
 I'm a technician in Brazilian digital game development, I've been studying game creation since I was 14, I graduated in digital game programming at senai in 2022, I've worked in several groups of independent developers, much of it as a volunteer work.
 My focus is always to seek better code quality, through software optimization, and code reuse.
-
+<br>
 If you want to know more, contact us through one of the social networks below.
 <br>
 <div align="">

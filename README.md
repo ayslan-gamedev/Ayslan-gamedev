@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="310px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
 
-> <h6 align="justify"> I'm a technician in Brazilian digital game development, I've been studying game creation since I was 14, I graduated in digital game programming at senai in 2022, I've worked in several groups of independent developers, much of it as a volunteer work. </h6>
+> <align="justify"> I'm a technician in Brazilian digital game development, I've been studying game creation since I was 14, I graduated in digital game programming at senai in 2022, I've worked in several groups of independent developers, much of it as a volunteer work. </>
 > <h6 align="justify"> My focus is always to seek better code quality, through software optimization, and code reuse. </>
 <br>
 If you want to know more, contact us through one of the social networks below.

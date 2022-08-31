@@ -13,8 +13,10 @@
   
 <!--
   <img align="center" alt="Ayslan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ayslan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
+  
+  <img align="center" alt="Ayslan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   
   <img align="center" alt="Ayslan-Blender" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" >
 </div>

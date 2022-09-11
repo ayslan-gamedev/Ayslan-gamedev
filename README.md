@@ -10,14 +10,8 @@
   <img align="center" alt="Ayslan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ayslan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ayslan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<!--
   <img align="center" alt="Ayslan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  -->
-  
   <img align="center" alt="Ayslan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  
   <img align="center" alt="Ayslan-Blender" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" >
 </div>
 <br>

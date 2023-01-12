@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AyslanSE/AyslanSE/main/master/img/computer-illustration.png" width="310px" align="right" alt="ayslan computer" style="max-width:100%;">
 <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
 
-> <h4 align="justify"> Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I'm a Technician in Digital Game Programming.</h4>
+> <h4 align="justify"> Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming.</h4>
 <div align="">
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayslan-Unity" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">

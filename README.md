@@ -4,7 +4,7 @@
  <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
  
  > <h4 align="justify"> Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming.</h4>
- <br><p align="center"> 
+ <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/ayslan-gamedev/count.svg" />
 </p>

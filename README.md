@@ -9,9 +9,9 @@
   <a href="https://github.com/ayslan-gamedev/ayslan-gamedev/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/ayslan-gamedev/ayslan-gamedev" /></a>
   <img src="https://komarev.com/ghpvc/?username=ayslan-gamedev" alt="ayslan-gamedev"/>
  </p>
+ <br>
 </div>
 
-##
 
 <div style="display: inline_block" align="center" height="auto">
  <a href="https://github.com/Ayslan-gamedev">

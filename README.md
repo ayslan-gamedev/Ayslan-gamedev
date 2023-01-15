@@ -12,8 +12,7 @@
 <br>
 
 <a href="https://github.com/Ayslan-gamedev">
-    <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
   
 <div align="center">

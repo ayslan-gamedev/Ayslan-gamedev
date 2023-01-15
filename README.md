@@ -4,7 +4,10 @@
  <h1> Hello World! <br> my name is Ayslan, Game Developer 🎮 </h1>
  
  > <h4 align="justify"> Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming.</h4>
- <br><br><br>
+ <br><p align="center"> 
+  Visitor count <br>
+  <img src="https://profile-counter.glitch.me/ayslan-gamedev/count.svg" />
+</p>
 </div>
 
 <div style="display: inline_block" align="center" height="auto">
@@ -21,8 +24,3 @@
   <a href="https://t.me/ayslan_gamedev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ayslan.gamedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/ayslan-gamedev/count.svg" />
-</p>

@@ -9,8 +9,8 @@
 
 <div style="display: inline_block" align="center" height="auto">
  <a href="https://github.com/Ayslan-gamedev">
-  <img align="center" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center"  src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
  </a>
 </div>
  

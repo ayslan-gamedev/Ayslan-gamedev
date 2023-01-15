@@ -11,11 +11,13 @@
 <br>
 <br>
 
+<div align="center">
 <a href="https://github.com/Ayslan-gamedev">
   <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api?username=Ayslan-gamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
-
+</div>
+  
 <div align="center">
   <a href="https://www.instagram.com/ayslan_gamedev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayslan-vieira-fontes-079362226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  

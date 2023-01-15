@@ -6,7 +6,7 @@
 
 <br>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <img align="center" alt="Ayslan-Unity" height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">
   <img align="center" alt="Ayslan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ayslan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,6 @@
   <img height="180cm" src="http://github-readme-stats-git-master-ayslan-gamedev.vercel.app/api/top-langs/?username=Ayslan-gamedev&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 
-
 <div> 
   <a href="https://www.instagram.com/ayslan_gamedev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ayslan-vieira-fontes-079362226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -30,9 +29,9 @@
   <a href = "mailto:ayslan.gamedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/ayslan-gamedev/ayslan-gamedev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayslan-gamedev/ayslan-gamedev/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/ayslan-gamedev/count.svg" />
 </p>

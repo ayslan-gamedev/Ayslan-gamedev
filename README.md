@@ -22,8 +22,6 @@
   <a href = "mailto:ayslan.gamedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/ayslan-gamedev/ayslan-gamedev/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center"> 
   Visitor count <br>
   <img src="https://profile-counter.glitch.me/ayslan-gamedev/count.svg" />

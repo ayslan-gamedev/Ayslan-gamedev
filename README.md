@@ -27,3 +27,5 @@
   <a href="https://t.me/ayslan_gamedev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ayslan.gamedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayslan-gamedev&theme=black&custom_title=Contributions"> -->

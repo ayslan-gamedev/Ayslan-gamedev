@@ -2,6 +2,8 @@
 
 # Hello World! <br> I'm Ayslan Fonte, 🎮 Game Developer </h1>
 
-> Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming.
+<div align = "justify">
+  Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming.
+</div><br>
 
 > 🐱‍👤Game Engineer of Instal Entertainment.

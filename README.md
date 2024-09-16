@@ -6,4 +6,4 @@
   Enthusiast of the art of creating digital games, I have practical experience through projects of my own and participation in groups of independent developers. I graduated as a Technician in Digital Game Programming and i'm studying Computer Science.
 </div><br>
 
-> open for work
+> I use Arch btw

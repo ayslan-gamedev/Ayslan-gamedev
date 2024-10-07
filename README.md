@@ -14,3 +14,6 @@
     I also "create my own IDE" with Neovim.
   </blockquote>
 </div>
+
+[![Ayslan's github stats](https://github-readme-stats.vercel.app/api?username=ayslan-gamedev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github.com/ayslan-gamedev/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ayslan-gamedev&layout=compact&theme=transparent&hide_border=true)](https://github.com/ayslan-gamedev/github-readme-stats)

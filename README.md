@@ -7,3 +7,4 @@
 </div><br>
 
 > I use Arch btw
+> and I also "create my own IDE" with neovim

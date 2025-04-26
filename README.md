@@ -8,7 +8,7 @@
     Enthusiast of the art of creating digital games, I have practical experience through my own projects 
     and participation in independent developer groups. I graduated as a Technician in Digital Game 
     Programming and I'm currently studying Computer Science.
-  </p><br>
+  </p><br><br><br><br>
 </div>
 
 [![Ayslan's github stats](https://github-readme-stats.vercel.app/api?username=ayslan-gamedev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github.com/ayslan-gamedev/github-readme-stats)

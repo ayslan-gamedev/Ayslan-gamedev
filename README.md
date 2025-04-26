@@ -9,10 +9,6 @@
     and participation in independent developer groups. I graduated as a Technician in Digital Game 
     Programming and I'm currently studying Computer Science.
   </p><br>
-  <blockquote style="margin-top: 20px; font-style: italic;">
-    I use Arch, btw.<br>
-    I also "create my own IDE" with Neovim.
-  </blockquote>
 </div>
 
 [![Ayslan's github stats](https://github-readme-stats.vercel.app/api?username=ayslan-gamedev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)](https://github.com/ayslan-gamedev/github-readme-stats)
